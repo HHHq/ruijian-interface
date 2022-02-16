@@ -1,0 +1,33 @@
+
+
+env_ruijian:
+    url: "https://channel.matrix.datastory.com.cn"
+    login_account: "app_demo@datastory.com.cn"
+    password: "123456@"
+
+email_receiver: ["hequan@datastory.com.cn"]
+
+
+db:
+    address: "192.168.40.57"
+    database: "db_datastory_channel"
+    port: 9988
+    user: "mars"
+    password: "YNqdJvz8rj9N7hAh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
